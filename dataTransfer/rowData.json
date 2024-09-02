@@ -1,0 +1,42 @@
+[
+  {
+    "equipmentNo": "EB20GTC00075",
+    "parameter": [
+      "OutlineX",
+      "Pattern1Y"
+    ],
+    "value": [
+      0.28,
+      12
+    ],
+    "ucl": [
+      0.505,
+      0.505
+    ],
+    "lcl": [
+      0.255,
+      0.255
+    ],
+    "table": "dimensioncci"
+  },
+  {
+    "equipmentNo": "ED08GTC00127FTC1",
+    "parameter": [
+      "Pattern1X",
+      "Pattern1Y"
+    ],
+    "value": [
+      0,
+      0
+    ],
+    "ucl": [
+      0.325,
+      0.325
+    ],
+    "lcl": [
+      0.275,
+      0.275
+    ],
+    "table": "dimensioncci"
+  }
+]

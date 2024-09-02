@@ -1,0 +1,36 @@
+[
+    {
+        "database": "datatest",
+        "table": "dimensioncci",
+        "equipment": "EB20GTC00075",
+        "parameter": [
+            "OutlineX",
+            "Pattern1Y"
+        ],
+        "ucl": [
+            "OutlineXYUCL",
+            "OutlineXYUCL"
+        ],
+        "lcl": [
+            "OutlineXYLCL",
+            "OutlineXYLCL"
+        ]
+    },
+    {
+        "database": "datatest",
+        "table": "dimensioncci",
+        "equipment": "ED08GTC00127FTC1",
+        "parameter": [
+            "Pattern1X",
+            "Pattern1Y"
+        ],
+        "ucl": [
+            "OutlineXYUCL",
+            "OutlineXYUCL"
+        ],
+        "lcl": [
+            "OutlineXYLCL",
+            "OutlineXYLCL"
+        ]
+    }
+]
